@@ -1,7 +1,7 @@
-# SimpleStore
+
 
 ## Motivation
-That project made for those who want to learn more about yii2 framework.
+
 
 ## Requirements
 - ```php>=8.2.0```
